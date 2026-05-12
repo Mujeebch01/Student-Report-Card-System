@@ -1,11 +1,14 @@
 📊 Student Report Card System
+
 A console-based student report card generator built in C++.
+
 Features
 - Full Name Input Support
 - Grade Calculation (A+ to F)
 - Pass/Fail Status
 - Percentage Calculation
 - Clean Input Validation
+  
 How To Run
 1. Open the file in any C++ compiler (Dev C++, VS Code, etc.)
 2. Compile and run ReportCard.cpp
