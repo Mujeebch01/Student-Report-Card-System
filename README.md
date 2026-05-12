@@ -34,7 +34,5 @@ Built With
 - C++
 - Concepts: strings, if-else, calculations, getline
 
-Author
-Mujeeb (GitHub: @Mujeebch01)
 ## Author
 Mujeeb (GitHub: @Mujeebch01)
